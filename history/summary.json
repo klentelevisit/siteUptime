@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/televisitmd.com.ico",
     "slug": "televisit-md",
     "status": "down",
-    "uptime": "19.56%",
-    "uptimeDay": "19.56%",
-    "uptimeWeek": "19.56%",
-    "uptimeMonth": "19.56%",
-    "uptimeYear": "19.56%",
+    "uptime": "15.12%",
+    "uptimeDay": "15.12%",
+    "uptimeWeek": "15.12%",
+    "uptimeMonth": "15.12%",
+    "uptimeYear": "15.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-09": 0
+      "2022-12-09": 1
     }
   },
   {
