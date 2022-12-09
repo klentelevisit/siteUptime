@@ -1,22 +1,22 @@
 [
   {
     "name": "TelevisitMD",
-    "url": "http://televisitmd.com/",
+    "url": "http://televisitmd.com/wellness",
     "icon": "https://icons.duckduckgo.com/ip3/televisitmd.com.ico",
     "slug": "televisit-md",
     "status": "down",
-    "uptime": "1.60%",
-    "uptimeDay": "1.60%",
-    "uptimeWeek": "1.60%",
-    "uptimeMonth": "1.60%",
-    "uptimeYear": "1.60%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-09": 6
+      "2022-12-09": 11
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2570,
-    "timeDay": 2570,
-    "timeWeek": 2570,
-    "timeMonth": 2570,
-    "timeYear": 2570,
+    "time": 2332,
+    "timeDay": 2332,
+    "timeWeek": 2332,
+    "timeMonth": 2332,
+    "timeYear": 2332,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 313,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
     "dailyMinutesDown": {}
   }
 ]
