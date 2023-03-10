@@ -4,18 +4,19 @@
     "url": "http://televisitmd.com/wellness",
     "icon": "https://icons.duckduckgo.com/ip3/televisitmd.com.ico",
     "slug": "televisit-md",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 973,
-    "timeDay": 152,
-    "timeWeek": 277,
-    "timeMonth": 590,
-    "timeYear": 973,
+    "time": 968,
+    "timeDay": 427,
+    "timeWeek": 317,
+    "timeMonth": 601,
+    "timeYear": 968,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2022-12-19": 25,
       "2022-12-09": 134
     }
@@ -25,18 +26,20 @@
     "url": "https://tvmdlt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tvmdlt.com.ico",
     "slug": "lt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1697,
-    "timeDay": 2213,
-    "timeWeek": 1529,
-    "timeMonth": 1727,
-    "timeYear": 1697,
-    "dailyMinutesDown": {}
+    "time": 1695,
+    "timeDay": 1476,
+    "timeWeek": 1594,
+    "timeMonth": 1714,
+    "timeYear": 1695,
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   },
   {
     "name": "MD-Do",
@@ -49,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 467,
-    "timeWeek": 440,
-    "timeMonth": 484,
-    "timeYear": 447,
+    "time": 446,
+    "timeDay": 397,
+    "timeWeek": 444,
+    "timeMonth": 475,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   }
 ]
