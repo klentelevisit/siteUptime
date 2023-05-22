@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/televisitmd.com.ico",
     "slug": "televisit-md",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 743,
     "timeDay": 381,
     "timeWeek": 473,
@@ -26,10 +26,10 @@
     "url": "https://tvmdlt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tvmdlt.com.ico",
     "slug": "lt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1583,
@@ -38,6 +38,7 @@
     "timeMonth": 1433,
     "timeYear": 1583,
     "dailyMinutesDown": {
+      "2023-05-22": 1,
       "2023-03-10": 97
     }
   },
@@ -46,9 +47,9 @@
     "url": "http://md-do.doctor/",
     "icon": "https://icons.duckduckgo.com/ip3/md-do.doctor.ico",
     "slug": "md-do",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +58,8 @@
     "timeWeek": 508,
     "timeMonth": 478,
     "timeYear": 464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-22": 0
+    }
   }
 ]
