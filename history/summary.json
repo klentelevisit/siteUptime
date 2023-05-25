@@ -48,7 +48,7 @@
     "url": "http://md-do.doctor/",
     "icon": "https://icons.duckduckgo.com/ip3/md-do.doctor.ico",
     "slug": "md-do",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "97.99%",
     "uptimeWeek": "99.23%",
@@ -60,6 +60,7 @@
     "timeMonth": 454,
     "timeYear": 461,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-05-24": 29,
       "2023-05-22": 49
     }
